@@ -4,8 +4,6 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { MyFirstLibraryModule } from 'my-first-library';
 
-import { MaskedTextBoxModule } from '@progress/kendo-angular-inputs';
-
 @NgModule({
   declarations: [
     AppComponent
